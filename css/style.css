@@ -6,7 +6,10 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    backdrop-filter: blur(2px);
+    backdrop-filter: opacitiy(0.5);
+    backdrop-filter: blur(3px);
+    background-color: #ffffff3a;
+    background-blend-mode: lighten;
     color: #fff;
 }
 
