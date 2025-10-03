@@ -8,7 +8,7 @@ body {
     background-repeat: no-repeat;
     backdrop-filter: opacitiy(0.5);
     backdrop-filter: blur(3px);
-    background-color: #ffffff3a;
+    background-color: #f0f0f03e;
     background-blend-mode: lighten;
     color: #fff;
 }
