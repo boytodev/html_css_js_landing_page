@@ -14,7 +14,7 @@ body {
 }
 
 .hero-section {
-    background: url('https://www.khawchawbannews.com/wp-content/uploads/2024/05/440934938_878763947629375_6406568560094179169_n.jpg') no-repeat center center;
+    background: url('../images/440934938_878763947629375_6406568560094179169_n.jpg') no-repeat center center;
     background-size: cover;
     height: 80vh;
     position: relative;
